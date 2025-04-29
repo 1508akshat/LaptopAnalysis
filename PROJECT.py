@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-
+#hello
 df = pd.read_csv('flipkart_laptops12.csv')
 
 
